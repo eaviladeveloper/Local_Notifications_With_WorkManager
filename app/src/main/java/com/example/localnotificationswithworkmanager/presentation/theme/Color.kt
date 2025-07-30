@@ -1,4 +1,4 @@
-package com.example.localnotificationswithworkmanager.ui.theme
+package com.example.localnotificationswithworkmanager.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
