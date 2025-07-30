@@ -14,5 +14,8 @@ Gracias por seguir confiando en nosotros.</string>
     <string name="inbox_notification_body">Revisa el panel de notificaciones para ver los detalles</string>
     <string name="image_notification_title">Notificación con imagen</string>
     <string name="image_notification_body">Revisa el panel de notificaciones para ver la imagen</string>
+    <string name="background_notification_title">Notificación en segundo plano</string>
+    <string name="background_notification_body">Notificación lanzada desde segundo plano</string>
+    <string name="toast_messsage_notification">La notificación se mostrará en 10 segundos</string>
 
 </resources>
