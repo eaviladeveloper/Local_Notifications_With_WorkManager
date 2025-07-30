@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Local Notifications</string>
+    <string name="home_title">Notificaciones locales</string>
+    <string name="basic_notification_title">Notificación básica</string>
+    <string name="basic_notification_body">Notificación de prueba funcionando</string>
+    <string name="large_notification_title">Notificación grande</string>
+    <string name="large_notification_body">Revisa el panel de notificaciones del dispositivo</string>
+    <string name="large_notification_content">Hemos lanzado una nueva versión de la aplicación con mejoras de rendimiento, nuevas funciones y corrección de errores.
+Ahora puedes disfrutar de una experiencia más rápida, fluida y segura.
+No olvides revisar las configuraciones para activar las novedades más recientes.
+Gracias por seguir confiando en nosotros.</string>
+    <string name="notifications_detail">Detalles de notificación</string>
+    <string name="inbox_notification_title">Notificación en lista</string>
+    <string name="inbox_notification_body">Revisa el panel de notificaciones para ver los detalles</string>
+    <string name="image_notification_title">Notificación con imagen</string>
+    <string name="image_notification_body">Revisa el panel de notificaciones para ver la imagen</string>
+
 </resources>
